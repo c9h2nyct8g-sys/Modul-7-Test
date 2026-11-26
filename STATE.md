@@ -1,11 +1,12 @@
-# Project State v1.0
+
+# Project State v1.1
 Updated: 2026-11-26
 
 R01: Done
 R02: Done
-R03: In progress
-R04: Not started
+R03: Done
+R04: In progress
 R05: Mandatory constraint
 
-Next step: Complete and test R03.
-Database technology: Not decided.
+Next step: Implement CSV export.
+Database technology: SQLite.
